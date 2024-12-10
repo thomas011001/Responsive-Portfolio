@@ -145,6 +145,7 @@ section.services .cards div {
     transition: .5s ;
     box-shadow: 0 0 20px;
     position: relative;
+    overflow: hidden;
 }
 
 section.services .cards div img {
